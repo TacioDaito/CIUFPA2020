@@ -1,6 +1,8 @@
 # comp_intellig_2020_ufpa
 
-| Primeiro cabeçalho  |  Segundo cabeçalho  |  Segundo cabeçalho  |  Segundo cabeçalho  |  Segundo cabeçalho  |  Segundo cabeçalho  |
+| **Participants\Info**   |  OS used on PC      |  IDE                |  Python distr./pkg  |  Virt. Env. Soft.   |  CPU, GPU and RAM   |
 | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-|  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |
-|  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |
+|  **Tacio (Manager)**    |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |
+|  **Sadala (Programm.)** |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |
+|  ---------------    |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |
+|  ---------------    |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |  Célula de conteúdo |
