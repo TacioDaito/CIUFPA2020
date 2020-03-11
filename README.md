@@ -1,4 +1,4 @@
-# comp_intellig_2020_ufpa
+# META
 
 | **Participants\Info** |  **Operational System used on PC**  |  **Integrated Development Environment**  |  **Python distribuition/package**  |  **Virtual Environment Software**  |  **Browser**  |  **CPU, GPU, RAM**  |
 | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
