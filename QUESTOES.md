@@ -17,6 +17,7 @@ Para dar suporte a todos esses casos de uso, o matplotlib pode direcionar saída
 Q21
   -
 O virtualenv, uma ferramenta de criação e simulação de ambientes virtuais isolados, que pode ser instalado através dos comandos `pip install --user -U virtualenv` no CMD do Windows e `python3 -m pip install --user -U virtualenv` no bash do Linux e MacOS — sendo `--user` um argumento usado para realizar instalações sem precisar da permissão do administrador e `-U` para atualizar a ferramenta para a versão mais recente —, é utilizada através do comando `virtualenv env`, o qual cria uma pasta no diretório atual onde os arquivos do novo ambiente serão criados.
+
 É possível também criar um ambiente virtual através de uma interface gráfica. A IDE PyCharm possui uma janela para criação de ambientes virtuais que pode ser acessada por Settings/Configurações->Project/Projeto->Project Interpreter/Interpretador->Ícone de Engrenagem->Add/Adicionar.
 
 Q28
