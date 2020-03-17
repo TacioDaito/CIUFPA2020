@@ -16,7 +16,7 @@ Para dar suporte a todos esses casos de uso, o matplotlib pode direcionar saída
 
 Q21
   -
-O virtualenv, uma ferramenta de criação e simulação de ambientes virtuais isolados, que pode ser instalado através dos comandos 'pip install --user -U virtualenv' no CMD do Windows e 'python3 -m pip install --user -U virtualenv' no bash do Linux e MacOS, é utilizado através do comando 'virtualenv env', o qual cria uma pasta no diretório atual onde os arquivos do novo ambiente serão criados.
+O virtualenv, uma ferramenta de criação e simulação de ambientes virtuais isolados, que pode ser instalado através dos comandos `pip install --user -U virtualenv` no CMD do Windows e `python3 -m pip install --user -U virtualenv` no bash do Linux e MacOS, é utilizado através do comando `virtualenv env`, o qual cria uma pasta no diretório atual onde os arquivos do novo ambiente serão criados.
 
 Q28
   -
