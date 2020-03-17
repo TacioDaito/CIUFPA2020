@@ -1,5 +1,5 @@
 Q4
- 
+ - 
 Mutiple regression:
 É o modelo que utiliza varias variaveis independentes para chegar em uma variavel dpendente (para realizar uma previsao e cheagar em um unico resutado)
 
