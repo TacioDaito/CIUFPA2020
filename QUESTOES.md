@@ -8,6 +8,7 @@ Univariete regression:
 
 Multuivariete regression:
 Já nesse modelo, os valores de N variáveis independentes são usados na previsão de N variáveis dependentes, sendo N  um número natural maior que 1
+
 Q14
 
 Matplotlib é uma biblioteca de plotagem.
