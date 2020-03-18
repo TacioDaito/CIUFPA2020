@@ -28,4 +28,4 @@ Q38
 
 Q45
   -
- No contexto de Machine Learning no Python, Ensemble Method ou Método de Comitê é um método de estimagem e previsão de valores que tem como conceito a combinação de diferentes modelos estimativos para atingir uma precisão superior à do método que usa apenas um modelo.
+ No contexto de Machine Learning no Python, Ensemble Methods, Ensemble Learning ou Métodos de Comitê são métodos de estimagem e previsão de valores que tem como conceito a combinação de diferentes modelos estimativos para atingir uma precisão superior à dos métodos que usam apenas um modelo.
