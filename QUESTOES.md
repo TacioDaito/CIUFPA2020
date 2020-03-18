@@ -22,13 +22,13 @@ Q21
 
 Q28
   -
- Dentro da biblioteca sklearn, é possível sequenciar transformações através da ferramenta e classe chamada `Pipeline`. Como o nome sugere, a Pipeline sequencia uma dada quantidade de passos — descrevidos através de tuplas, com o nome do passo sendo o primeiro elemento e a transformação usada o segundo — os quais todos exceto o último, que deve ser obrigatoriamente um estimador, podem possuir um transformador, pré-processador ou estimador. Qualquer um destes citados que estão contidos no sklearn ou em módulos que sigam o modelo do mesmo podem ser usados na Pipeline.
- 
- O sequenciamento via Pipeline ajuda na compreensão e entendimento do código, o que torna o mesmo mais acessível para as diferentes áreas de conhecimento de dados e mais compartilhável entre programadores, visto que cada tarefa que o código executa torna-se mais fácil de entender.
- 
+
 
 Q38
   -
+ Dentro da biblioteca sklearn, é possível sequenciar transformações através da ferramenta e classe chamada `Pipeline`. Como o nome sugere, a Pipeline sequencia uma dada quantidade de passos — descrevidos através de tuplas, com o nome do passo sendo o primeiro elemento e a transformação usada o segundo — os quais todos exceto o último, que deve ser obrigatoriamente um estimador, podem possuir um transformador, pré-processador ou estimador. Qualquer um destes citados que estão contidos no sklearn ou em módulos que sigam o modelo do mesmo podem ser usados na Pipeline.
+ 
+ O sequenciamento via Pipeline ajuda na compreensão e entendimento do código, o que torna o mesmo mais acessível para as diferentes áreas de conhecimento de dados e mais compartilhável entre programadores, visto que cada tarefa que o código executa torna-se mais fácil de entender.
 
 Q45
   -
