@@ -29,3 +29,5 @@ Q38
 Q45
   -
  No contexto de Machine Learning (ML), Ensemble Methods ou Ensemble Learning ou ainda Métodos de Comitê são métodos de estimagem e previsão de valores que tem como conceito a combinação de diferentes modelos estimativos a fim de atingir uma precisão superior à dos métodos que usam apenas um modelo. Esse aprimoramento se dá através do refinamento e combinação das estimagens individuais desses modelos em uma só estimação, processo este executado por um Ensemble Model adequado aos mesmos.
+ 
+ Um determinado sistema de ML pode ter seu desempenho melhorado com um Ensemble Method que busca contrabalancear uma dada fraqueza natural de seu modelo estimativo, usando um segundo modelo que preencha as deficiências deste e combinando os resultados de ambos. Dentre os Ensemble Methods, estão alguns como o Bagging, o Stacking, o Boosting e o Voting.  
